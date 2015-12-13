@@ -50,7 +50,7 @@
     <Compile Include="SimpleInMemoryCache.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\src\NCaches.Core\NCaches.Core.csproj">
+    <ProjectReference Include="..\NCaches.Core\NCaches.Core.csproj">
       <Project>{19583338-7ae5-4cf2-bbad-bfaa31fbd76d}</Project>
       <Name>NCaches.Core</Name>
     </ProjectReference>

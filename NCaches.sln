@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{63297B98-5CED-492C-A5B7-A5B4F73CF142}"
 	ProjectSection(SolutionItems) = preProject
@@ -33,7 +33,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{ED8079DD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCaches.Core", "src\NCaches.Core\NCaches.Core.csproj", "{19583338-7AE5-4CF2-BBAD-BFAA31FBD76D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCaches.InMemory", "NCaches.InMemory\NCaches.InMemory.csproj", "{09BF920D-019E-4B50-A3CC-3B97307DDE3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCaches.InMemory", "src\NCaches.InMemory\NCaches.InMemory.csproj", "{09BF920D-019E-4B50-A3CC-3B97307DDE3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
